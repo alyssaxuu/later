@@ -17,15 +17,8 @@ Made by [Alyssa X](https://twitter.com/alyssaxuu)
 ## Table of contents
 
 - [Features](#features)
-- [Controlling the interface](#controlling-the-interface)
-	- [Opening Omni](#opening-omni)
-	- [Closing Omni](#closing-omni)
-	- [Switching between dark and light mode](#switching-between-dark-and-light-mode)
-- [List of commands](#list-of-commands)
-- [Self-hosting Omni](#self-hosting-omni)
-	- [Installing on Chrome](#installing-on-chrome)
-	- [Installing on Firefox](#installing-on-firefox) 
-- [Libraries used](#libraries-used)
+- [Installing Later](#installing-later)
+- [Source code](#source-code)
 
 ## Features
 
