@@ -12,6 +12,8 @@ Later is a Mac menu bar app that clears and restores your workspace with ease. S
 
 <a href="https://www.producthunt.com/posts/later-aa762753-cafe-475e-9acb-d534de9e6adf?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-later&#0045;aa762753&#0045;cafe&#0045;475e&#0045;9acb&#0045;d534de9e6adf" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=332569&theme=light" alt="Later - Save&#0032;all&#0032;your&#0032;Mac&#0032;apps&#0032;for&#0032;later&#0032;with&#0032;one&#0032;click | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
+> You can support this project (and many others) through [GitHub Sponsors](https://github.com/sponsors/alyssaxuu)! ❤️
+
 Made by [Alyssa X](https://twitter.com/alyssaxuu)
 
 ## Table of contents
