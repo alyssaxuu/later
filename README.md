@@ -16,6 +16,8 @@ Later is a Mac menu bar app that clears and restores your workspace with ease. S
 
 Made by [Alyssa X](https://twitter.com/alyssaxuu)
 
+Note: I am not maintaining this project any longer, I have open sourced it so anyone can make changes and improvements, or build their own version of it.
+
 ## Table of contents
 
 - [Features](#features)
@@ -42,7 +44,3 @@ You can open Later in Xcode if you'd like to make any changes, or develop it fur
 2. Open Xcode, and choose the option to "Open a project or file"
 3. Select the Xcode folder you downloaded
 4. You might be prompted with a warning, select "Trust and open" to proceed.
-
-#
-
-Feel free to reach out to me through email at hi@alyssax.com or [on Twitter](https://twitter.com/alyssaxuu) if you have any questions or feedback! Hope you find this useful 💜
